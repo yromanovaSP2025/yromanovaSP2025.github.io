@@ -6,3 +6,13 @@ yromanova@my.waketech.edu
 
 This account was created for use with my Wake Tech courses in order to keep them separate from my personal account.
 This repository was created as part of the first lab for the CTI-110 course during the spring 2025 semester.
+
+
+# About Me
+
+## My Interests
+
+I enjoy video games, drawing and painting, photography, and reading. Additionally, I also enjoy studying foreign languages.
+
+## Websites I Recommend
+
